@@ -1,4 +1,4 @@
-# [API v1] Smart Tribune PHP Wrapper
+# [API v1.1] Smart Tribune PHP Wrapper
 
 ## Introduction
 
